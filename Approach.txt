@@ -1,0 +1,8 @@
+I am stopping it right here 28122023_231723 
+I don't know what I wrote myself and I am feeling sleepy and more than that I can't think anything and odinschool projects are more important now 
+
+so I haven't had the idea yet so it caused a lot of time waste look there are many problems to solve still those are 
+1) I want it to store previous information in a file like a dataframe is good 
+2) The interface should show options for particular date and it's statistics 
+3) Every morning when I start the system it should know how many days I have missed like if I haven't opened the laptop for more than 3 days then it should still create a statistics for that day 
+4) Your time waste is calculated in this manner " 16:45:54 # your overall day time 'minus' overall laptop usage 'minus' time wasted in laptop , this is how you calculate it 
